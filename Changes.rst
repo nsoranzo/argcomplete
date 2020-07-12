@@ -1,3 +1,19 @@
+Changes for v1.12.0 (2020-07-12)
+================================
+
+-  Help string support for fish (#264)
+
+-  Add option to use tempfiles for IPC (#307)
+
+-  Fix multiple command registration for non-bash shells (#293)
+
+-  Register auto completion for an arbitrary name using a given external
+   script (#288, #296)
+
+-  Skip completions from active subprocess completer (#289)
+
+-  Fix warnings regarding invalid escape sequences (#286)
+
 Changes for v1.11.1 (2020-01-14)
 ================================
 
